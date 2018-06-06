@@ -1,2 +1,2 @@
-# css3.swishTeaserPage
-Swish Teaser Page With CSS3
+# Swish Teaser Page With CSS3
+A Swish Teaser Page With CSS3. See the code.
